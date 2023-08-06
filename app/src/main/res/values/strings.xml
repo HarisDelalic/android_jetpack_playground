@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Commuinity</string>
+    <string name="click_me">Click Me</string>
+    <string name="sample">Sample</string>
+    <string name="shop">Shop</string>
+    <string name="elevated">Elevated</string>
+    <string name="image">Image</string>
+    <string name="spain">Spain</string>
+    <string name="new_york">New York</string>
+    <string name="city_images">City Images</string>
+    <string name="san_francisco">San Francisco</string>
+    <string name="chicago">Chicago</string>
+</resources>
